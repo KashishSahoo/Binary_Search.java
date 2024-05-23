@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ceiling",
+            "request": "launch",
+            "mainClass": "Ceiling",
+            "projectName": "Data Structures And Algorithms_44152cc5"
+        },
+        {
+            "type": "java",
+            "name": "Order_Agnostic_BS",
+            "request": "launch",
+            "mainClass": "Order_Agnostic_BS",
+            "projectName": "Data Structures And Algorithms_44152cc5"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        }
+    ]
+}
