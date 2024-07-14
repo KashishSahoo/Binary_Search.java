@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sorted_martrix_search",
+            "request": "launch",
+            "mainClass": "Sorted_martrix_search",
+            "projectName": "Data Structures And Algorithms_44152cc5"
+        },
+        {
+            "type": "java",
+            "name": "Row_Col_sorted_matrix",
+            "request": "launch",
+            "mainClass": "Row_Col_sorted_matrix",
+            "projectName": "Data Structures And Algorithms_44152cc5"
+        },
+        {
+            "type": "java",
+            "name": "Search_2D",
+            "request": "launch",
+            "mainClass": "Search_2D",
+            "projectName": "Data Structures And Algorithms_44152cc5"
+        },
+        {
+            "type": "java",
+            "name": "Rotated_search",
+            "request": "launch",
+            "mainClass": "Rotated_search",
+            "projectName": "Data Structures And Algorithms_44152cc5"
+        },
+        {
+            "type": "java",
+            "name": "Infinite_Array",
+            "request": "launch",
+            "mainClass": "Infinite_Array",
+            "projectName": "Data Structures And Algorithms_44152cc5"
+        },
+        {
+            "type": "java",
+            "name": "Fir",
+            "request": "launch",
+            "mainClass": "Fir",
+            "projectName": "Data Structures And Algorithms_44152cc5"
+        },
+        {
+            "type": "java",
+            "name": "Floor",
+            "request": "launch",
+            "mainClass": "Floor",
+            "projectName": "Data Structures And Algorithms_44152cc5"
+        },
+        {
+            "type": "java",
             "name": "Ceiling",
             "request": "launch",
             "mainClass": "Ceiling",
